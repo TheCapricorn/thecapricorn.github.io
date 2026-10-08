@@ -1,0 +1,1965 @@
+{
+  "files": 90,
+  "bytes": 109062920,
+  "readyCount": 78,
+  "questionCount": 3955,
+  "unverifiedCount": 568,
+  "exams": [
+    {
+      "id": "2025-paper-1a60ef81cb9b",
+      "year": 2025,
+      "title": "2025年3月29日市属、前湾新区事业单位",
+      "date": "2025-03-29",
+      "region": "前湾",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年3月29日市属事业单位考试（精编）/2025年3月29日市属、前湾新区事业单位试卷（精编）.pdf",
+        "2025/2025年3月29日市属事业单位考试（精编）/2025年3月29日市属、前湾新区事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年3月29日市属事业单位考试（精编）/2025年3月29日市属、前湾新区事业单位试卷（精编）.pdf",
+          "url": "sources/1a60ef81cb9b43a8.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年3月29日市属事业单位考试（精编）/2025年3月29日市属、前湾新区事业单位答案及解析（精编）.pdf",
+          "url": "sources/54941b2d0adcc7fe.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 46,
+      "objectiveCount": 45,
+      "subjectiveCount": 1,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2025-paper-1ba71d923943",
+      "year": 2025,
+      "title": "2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位",
+      "date": "2025-04-19",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位考试（精编）/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位试卷（精编）.pdf",
+        "2025/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位考试（精编）/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位考试（精编）/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位试卷（精编）.pdf",
+          "url": "sources/1ba71d92394359dc.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位考试（精编）/2025年4月19日海曙人才引进、江北、（鄞州部分）事业单位答案及解析（精编）.pdf",
+          "url": "sources/4f7ad5b20cf0c888.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2025-paper-324f50d36b48",
+      "year": 2025,
+      "title": "2025年6月14日上午奉化区事业单位",
+      "date": "2025-06-14",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年6月14日上午奉化区事业单位考试（精编）/2025年6月14日上午奉化区事业单位试卷（精编）.pdf",
+        "2025/2025年6月14日上午奉化区事业单位考试（精编）/2025年6月14日上午奉化区事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年6月14日上午奉化区事业单位考试（精编）/2025年6月14日上午奉化区事业单位试卷（精编）.pdf",
+          "url": "sources/324f50d36b48d035.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年6月14日上午奉化区事业单位考试（精编）/2025年6月14日上午奉化区事业单位答案及解析（精编）.pdf",
+          "url": "sources/fb74f1ad28788bc3.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2025-paper-86f91c20ffb7",
+      "year": 2025,
+      "title": "2025年6月14日镇海区事业单位",
+      "date": "2025-06-14",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年6月14日镇海区事业单位考试（精编）/2025年6月14日镇海区事业单位试卷（精编）.pdf",
+        "2025/2025年6月14日镇海区事业单位考试（精编）/2025年6月14日镇海区事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年6月14日镇海区事业单位考试（精编）/2025年6月14日镇海区事业单位试卷（精编）.pdf",
+          "url": "sources/86f91c20ffb71ff4.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年6月14日镇海区事业单位考试（精编）/2025年6月14日镇海区事业单位答案及解析（精编）.pdf",
+          "url": "sources/59d1e3dd2d6c5385.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2025-paper-96e6ebee1e61",
+      "year": 2025,
+      "title": "2025年6月14日下午奉化区事业单位",
+      "date": "2025-06-14",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年6月14日下午奉化区事业单位考试（精编）/2025年6月14日下午奉化区事业单位试卷（精编）.pdf",
+        "2025/2025年6月14日下午奉化区事业单位考试（精编）/2025年6月14日下午奉化区事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年6月14日下午奉化区事业单位考试（精编）/2025年6月14日下午奉化区事业单位试卷（精编）.pdf",
+          "url": "sources/96e6ebee1e6134b2.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年6月14日下午奉化区事业单位考试（精编）/2025年6月14日下午奉化区事业单位答案及解析（精编）.pdf",
+          "url": "sources/92522a9b2c3e637c.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2025-paper-8afc0a33b0fa",
+      "year": 2025,
+      "title": "2025年9月21日上午余姚、慈溪、象山、宁海事业单位（资料版本 2）",
+      "date": "2025-09-21",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位试卷（精编）暂缺案例分析.pdf",
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）.pdf",
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）暂缺案例分析.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位试卷（精编）暂缺案例分析.pdf",
+          "url": "sources/8afc0a33b0fa94e1.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）.pdf",
+          "url": "sources/148f2a34f0bc9781.pdf",
+          "role": "answer"
+        },
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）暂缺案例分析.pdf",
+          "url": "sources/4e0e3b7886a7d868.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 原资料标注暂缺案例分析，请以现有原卷为准。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2025-paper-c4c2cdc223ae",
+      "year": 2025,
+      "title": "2025年9月21日下午余姚、慈溪、象山、宁海事业单位",
+      "date": "2025-09-21",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日下午余姚、慈溪、象山、宁海事业单位试卷（精编）.pdf",
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日下午余姚、慈溪、象山、宁海事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日下午余姚、慈溪、象山、宁海事业单位试卷（精编）.pdf",
+          "url": "sources/c4c2cdc223aee779.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日下午余姚、慈溪、象山、宁海事业单位答案及解析（精编）.pdf",
+          "url": "sources/fd09fecffe98b27a.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 原资料标注暂缺案例分析，请以现有原卷为准。"
+    },
+    {
+      "id": "2025-paper-e01635568bc5",
+      "year": 2025,
+      "title": "2025年9月21日上午余姚、慈溪、象山、宁海事业单位（资料版本 1）",
+      "date": "2025-09-21",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位试卷（精编）.pdf",
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）.pdf",
+        "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）暂缺案例分析.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位试卷（精编）.pdf",
+          "url": "sources/e01635568bc57e71.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）.pdf",
+          "url": "sources/148f2a34f0bc9781.pdf",
+          "role": "answer"
+        },
+        {
+          "name": "2025/2025年9月21日上午余姚、慈溪、象山、宁海事业单位考试（精编）暂缺案例分析/2025年9月21日上午余姚、慈溪、象山、宁海事业单位答案及解析（精编）暂缺案例分析.pdf",
+          "url": "sources/4e0e3b7886a7d868.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 原资料标注暂缺案例分析，请以现有原卷为准。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2025-paper-16dca6a757f9",
+      "year": 2025,
+      "title": "2025年12月6日市属事业单位",
+      "date": "2025-12-06",
+      "region": "市属",
+      "status": "ready",
+      "sourceFiles": [
+        "2025/2025年12月6日市属事业单位试卷（精编）.pdf",
+        "2025/2025年12月6日市属事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2025/2025年12月6日市属事业单位试卷（精编）.pdf",
+          "url": "sources/16dca6a757f9ede8.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2025/2025年12月6日市属事业单位答案及解析（精编）.pdf",
+          "url": "sources/6cdc86c86b9ace94.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2024-paper-3ab3d9662cc0",
+      "year": 2024,
+      "title": "2024年1月7日象山县事业单位（财会专业知识）",
+      "date": "2024-01-07",
+      "region": "象山",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年1月7日象山县事业单位（财会专业知识）试卷.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年1月7日象山县事业单位（财会专业知识）试卷.pdf",
+          "url": "sources/3ab3d9662cc05abe.pdf",
+          "role": "paper"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 45,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 45 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-5cb80a86c8c8",
+      "year": 2024,
+      "title": "2024年1月7日下午象山县事业单位",
+      "date": "2024-01-07",
+      "region": "象山",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年1月7日下午象山县事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年1月7日下午象山县事业单位试卷及答案.pdf",
+          "url": "sources/5cb80a86c8c89aae.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 18,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 18 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-9b7f27e930d5",
+      "year": 2024,
+      "title": "2024年1月7日上午象山事业单位",
+      "date": "2024-01-07",
+      "region": "象山",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年1月7日上午象山事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年1月7日上午象山事业单位试卷及答案.pdf",
+          "url": "sources/9b7f27e930d58e19.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 43,
+      "objectiveCount": 43,
+      "subjectiveCount": 0,
+      "unverifiedCount": 18,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 18 道客观题待核验，不计入自动评分。 原文题号未完整提取（17），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2024-paper-70512135d2da",
+      "year": 2024,
+      "title": "2024年3月30日市属事业单位",
+      "date": "2024-03-30",
+      "region": "市属",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年3月30日市属事业单位考试（精编）/2024年3月30日市属事业单位试卷（精编）.pdf",
+        "2024/2024年3月30日市属事业单位考试（精编）/2024年3月30日市属事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年3月30日市属事业单位考试（精编）/2024年3月30日市属事业单位试卷（精编）.pdf",
+          "url": "sources/70512135d2da71c8.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2024/2024年3月30日市属事业单位考试（精编）/2024年3月30日市属事业单位答案及解析（精编）.pdf",
+          "url": "sources/ae4812eb84b63a7a.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 52,
+      "objectiveCount": 50,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2024-paper-24d2a2ad28e5",
+      "year": 2024,
+      "title": "2024年4月27日镇海区事业单位",
+      "date": "2024-04-27",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年4月27日镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年4月27日镇海区事业单位试卷及答案.pdf",
+          "url": "sources/24d2a2ad28e5fba5.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-3ae816ee5e08",
+      "year": 2024,
+      "title": "2024年5月18日上午北仑区、高新区事业单位",
+      "date": "2024-05-18",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年5月18日上午北仑区、高新区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年5月18日上午北仑区、高新区事业单位试卷及答案.pdf",
+          "url": "sources/3ae816ee5e08d429.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 51,
+      "objectiveCount": 50,
+      "subjectiveCount": 1,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-fe1f9ed5acc7",
+      "year": 2024,
+      "title": "2024年5月18日下午北仑区、高新区事业单位",
+      "date": "2024-05-18",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年5月18日下午北仑区、高新区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年5月18日下午北仑区、高新区事业单位试卷及答案.pdf",
+          "url": "sources/fe1f9ed5acc790ca.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 48,
+      "objectiveCount": 47,
+      "subjectiveCount": 1,
+      "unverifiedCount": 8,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 8 道客观题待核验，不计入自动评分。 原文题号未完整提取（33、34、35），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2024-paper-4e4c5c754120",
+      "year": 2024,
+      "title": "2024年5月25日鄞州区事业单位",
+      "date": "2024-05-25",
+      "region": "鄞州",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年5月25日鄞州区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年5月25日鄞州区事业单位试卷及答案.pdf",
+          "url": "sources/4e4c5c754120f0c5.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 39,
+      "objectiveCount": 37,
+      "subjectiveCount": 2,
+      "unverifiedCount": 33,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 33 道客观题待核验，不计入自动评分。 原文题号未完整提取（10），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2024-paper-6c68aa50282d",
+      "year": 2024,
+      "title": "2024年6月29日市直属事业单位",
+      "date": "2024-06-29",
+      "region": "市直属",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年6月29日市直属事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年6月29日市直属事业单位试卷及答案.pdf",
+          "url": "sources/6c68aa50282d709a.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-d6d8506708e9",
+      "year": 2024,
+      "title": "2024年6月29日市属事业单位辅导员",
+      "date": "2024-06-29",
+      "region": "市属",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年6月29日市属事业单位辅导员试卷.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年6月29日市属事业单位辅导员试卷.pdf",
+          "url": "sources/d6d8506708e9b834.pdf",
+          "role": "paper"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 45,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 45 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-8f905cedbd2e",
+      "year": 2024,
+      "title": "2024年8月24日下午海曙区事业单位",
+      "date": "2024-08-24",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年8月24日下午海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年8月24日下午海曙区事业单位试卷及答案.pdf",
+          "url": "sources/8f905cedbd2e2788.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 51,
+      "objectiveCount": 49,
+      "subjectiveCount": 2,
+      "unverifiedCount": 15,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 15 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-eab91a92331f",
+      "year": 2024,
+      "title": "2024年8月24日上午海曙区事业单位",
+      "date": "2024-08-24",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年8月24日上午海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年8月24日上午海曙区事业单位试卷及答案.pdf",
+          "url": "sources/eab91a92331ff72e.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 54,
+      "objectiveCount": 52,
+      "subjectiveCount": 2,
+      "unverifiedCount": 3,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 3 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-584c5acfc3da",
+      "year": 2024,
+      "title": "2024年8月31日市属事业单位",
+      "date": "2024-08-31",
+      "region": "市属",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年8月31日市属事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年8月31日市属事业单位试卷及答案.pdf",
+          "url": "sources/584c5acfc3da38e1.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-0da97d9956e1",
+      "year": 2024,
+      "title": "2024年9月28日下午慈溪市、奉化区、宁海县、象山县、余姚市五地联考",
+      "date": "2024-09-28",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年9月28日下午慈溪市、奉化区、宁海县、象山县、余姚市五地联考试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年9月28日下午慈溪市、奉化区、宁海县、象山县、余姚市五地联考试卷及答案.pdf",
+          "url": "sources/0da97d9956e1b54f.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 17,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 17 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-3cf1fc335631",
+      "year": 2024,
+      "title": "2024年9月28日上午慈溪市、奉化区、宁海县、象山县、余姚市五地联考",
+      "date": "2024-09-28",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年9月28日上午慈溪市、奉化区、宁海县、象山县、余姚市五地联考试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年9月28日上午慈溪市、奉化区、宁海县、象山县、余姚市五地联考试卷及答案.pdf",
+          "url": "sources/3cf1fc3356312956.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2024-paper-2e67dbd72f32",
+      "year": 2024,
+      "title": "2024年10月19日江北区事业单位",
+      "date": "2024-10-19",
+      "region": "江北",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年10月19日江北区事业单位考试（精编）/2024年10月19日江北区事业单位试卷（精编）.pdf",
+        "2024/2024年10月19日江北区事业单位考试（精编）/2024年10月19日江北区事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年10月19日江北区事业单位考试（精编）/2024年10月19日江北区事业单位试卷（精编）.pdf",
+          "url": "sources/2e67dbd72f3269b8.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2024/2024年10月19日江北区事业单位考试（精编）/2024年10月19日江北区事业单位答案及解析（精编）.pdf",
+          "url": "sources/7e8e20d85bd5d7f2.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2024-paper-6e5b713f1a8e",
+      "year": 2024,
+      "title": "2024年12月22日上午北仑区事业单位",
+      "date": "2024-12-22",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2024/2024年12月22日上午北仑区事业单位考试（精编）/2024年12月22日上午北仑区事业单位试卷（精编）.pdf",
+        "2024/2024年12月22日上午北仑区事业单位考试（精编）/2024年12月22日上午北仑区事业单位答案及解析（精编）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2024/2024年12月22日上午北仑区事业单位考试（精编）/2024年12月22日上午北仑区事业单位试卷（精编）.pdf",
+          "url": "sources/6e5b713f1a8e553b.pdf",
+          "role": "paper"
+        },
+        {
+          "name": "2024/2024年12月22日上午北仑区事业单位考试（精编）/2024年12月22日上午北仑区事业单位答案及解析（精编）.pdf",
+          "url": "sources/d6c4d1d56e3f7f7d.pdf",
+          "role": "answer"
+        }
+      ],
+      "questionCount": 51,
+      "objectiveCount": 50,
+      "subjectiveCount": 1,
+      "unverifiedCount": 5,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 5 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-8703528e5573",
+      "year": 2023,
+      "title": "2023年2月5日上午镇海区事业单位",
+      "date": "2023-02-05",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月5日上午镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月5日上午镇海区事业单位试卷及答案.pdf",
+          "url": "sources/8703528e5573de39.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 42,
+      "objectiveCount": 40,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2023-paper-da7753262f98",
+      "year": 2023,
+      "title": "2023年2月5日下午镇海区事业单位",
+      "date": "2023-02-05",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月5日下午镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月5日下午镇海区事业单位试卷及答案.pdf",
+          "url": "sources/da7753262f989be5.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 56,
+      "objectiveCount": 54,
+      "subjectiveCount": 2,
+      "unverifiedCount": 47,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 47 道客观题待核验，不计入自动评分。 原文题号未完整提取（16），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2023-paper-889dbbeabbd4",
+      "year": 2023,
+      "title": "2023年2月11日宁波市直属事业单位",
+      "date": "2023-02-11",
+      "region": "市直属",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月11日宁波市直属事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月11日宁波市直属事业单位试卷及答案.pdf",
+          "url": "sources/889dbbeabbd4ce24.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 44,
+      "objectiveCount": 42,
+      "subjectiveCount": 2,
+      "unverifiedCount": 40,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 40 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-273a9e008f38",
+      "year": 2023,
+      "title": "2023年2月18日海曙区事业单位",
+      "date": "2023-02-18",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月18日海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月18日海曙区事业单位试卷及答案.pdf",
+          "url": "sources/273a9e008f389c1a.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-36879ffee250",
+      "year": 2023,
+      "title": "2023年2月25日下午宁海、象山事业单位联考",
+      "date": "2023-02-25",
+      "region": "宁海",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月25日下午宁海、象山事业单位联考试卷及答案 .pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月25日下午宁海、象山事业单位联考试卷及答案 .pdf",
+          "url": "sources/36879ffee250c963.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 7,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 7 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-f7fe97188ea5",
+      "year": 2023,
+      "title": "2023年2月25日上午宁海、象山事业单位联考",
+      "date": "2023-02-25",
+      "region": "宁海",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月25日上午宁海、象山事业单位联考试卷及答案 .pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月25日上午宁海、象山事业单位联考试卷及答案 .pdf",
+          "url": "sources/f7fe97188ea513b8.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2023-paper-025487a07e8e",
+      "year": 2023,
+      "title": "2023年2月26日下午余姚、慈溪、奉化事业单位（资料版本 1）",
+      "date": "2023-02-26",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月26日下午余姚、慈溪、奉化事业单位试卷及答案（2）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月26日下午余姚、慈溪、奉化事业单位试卷及答案（2）.docx",
+          "url": "sources/025487a07e8ef79e.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 56,
+      "subjectiveCount": 1,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2023-paper-6a16aae070c7",
+      "year": 2023,
+      "title": "2023年2月26日上午余姚、慈溪、奉化事业单位（资料版本 1）",
+      "date": "2023-02-26",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月26日上午余姚、慈溪、奉化事业单位试卷及答案（2）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月26日上午余姚、慈溪、奉化事业单位试卷及答案（2）.docx",
+          "url": "sources/6a16aae070c7de00.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 41,
+      "objectiveCount": 39,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2023-paper-6bac5c4c7cee",
+      "year": 2023,
+      "title": "2023年2月26日下午余姚、慈溪、奉化事业单位（资料版本 2）",
+      "date": "2023-02-26",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月26日下午余姚、慈溪、奉化事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月26日下午余姚、慈溪、奉化事业单位试卷及答案.pdf",
+          "url": "sources/6bac5c4c7cee28db.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 3,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 3 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2023-paper-d2f8a40ce936",
+      "year": 2023,
+      "title": "2023年2月26日上午余姚、慈溪、奉化事业单位（资料版本 2）",
+      "date": "2023-02-26",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年2月26日上午余姚、慈溪、奉化事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年2月26日上午余姚、慈溪、奉化事业单位试卷及答案.pdf",
+          "url": "sources/d2f8a40ce93614a5.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 58,
+      "objectiveCount": 55,
+      "subjectiveCount": 3,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2023-paper-ffd609a8e7a5",
+      "year": 2023,
+      "title": "2023年3月18日北仑区事业单位",
+      "date": "2023-03-18",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年3月18日北仑区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年3月18日北仑区事业单位试卷及答案.pdf",
+          "url": "sources/ffd609a8e7a5e6c5.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2023-paper-61cb663c4c4b",
+      "year": 2023,
+      "title": "2023年3月25日宁波市属事业单位",
+      "date": "2023-03-25",
+      "region": "市属",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年3月25日宁波市属事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年3月25日宁波市属事业单位试卷及答案.pdf",
+          "url": "sources/61cb663c4c4b37d7.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 46,
+      "objectiveCount": 44,
+      "subjectiveCount": 2,
+      "unverifiedCount": 41,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 41 道客观题待核验，不计入自动评分。 原文题号未完整提取（15、16、17、18、19、20、21、22、23、24、25、26、27、28、29、30、31、32、33），请对照原卷；含原卷缺题或图形/扫描待复核部分。 原文存在缺题或回忆补题，按现有内容保留，不补造缺失题目。"
+    },
+    {
+      "id": "2023-paper-0e98e962b76e",
+      "year": 2023,
+      "title": "2023年4月15日下午海曙区事业单位",
+      "date": "2023-04-15",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年4月15日下午海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年4月15日下午海曙区事业单位试卷及答案.pdf",
+          "url": "sources/0e98e962b76e3b28.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 51,
+      "objectiveCount": 51,
+      "subjectiveCount": 0,
+      "unverifiedCount": 11,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 11 道客观题待核验，不计入自动评分。 原文题号未完整提取（24、25、31、32），请对照原卷；含原卷缺题或图形/扫描待复核部分。 原文存在缺题或回忆补题，按现有内容保留，不补造缺失题目。"
+    },
+    {
+      "id": "2023-paper-1b42ae4413e7",
+      "year": 2023,
+      "title": "2023年4月15日上午海曙区事业单位",
+      "date": "2023-04-15",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年4月15日上午海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年4月15日上午海曙区事业单位试卷及答案.pdf",
+          "url": "sources/1b42ae4413e7e02f.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-6ffd30ea34fa",
+      "year": 2023,
+      "title": "2023年5月27日鄞州区事业单位",
+      "date": "2023-05-27",
+      "region": "鄞州",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年5月27日鄞州区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年5月27日鄞州区事业单位试卷及答案.pdf",
+          "url": "sources/6ffd30ea34fa5745.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 47,
+      "subjectiveCount": 0,
+      "unverifiedCount": 5,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 5 道客观题待核验，不计入自动评分。 原文存在缺题或回忆补题，按现有内容保留，不补造缺失题目。"
+    },
+    {
+      "id": "2023-paper-0f4d166ecaae",
+      "year": 2023,
+      "title": "2023年6月11日下午镇海区事业单位",
+      "date": "2023-06-11",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年6月11日下午镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年6月11日下午镇海区事业单位试卷及答案.pdf",
+          "url": "sources/0f4d166ecaae0cbe.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 14,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 14 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-bd9cfc01e1cb",
+      "year": 2023,
+      "title": "2023年6月11日上午镇海区事业单位",
+      "date": "2023-06-11",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年6月11日上午镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年6月11日上午镇海区事业单位试卷及答案.pdf",
+          "url": "sources/bd9cfc01e1cb153a.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 24,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 24 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-014f2f0ea87c",
+      "year": 2023,
+      "title": "2023年6月17日海曙区应届生事业单位",
+      "date": "2023-06-17",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年6月17日海曙区应届生事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年6月17日海曙区应届生事业单位试卷及答案.pdf",
+          "url": "sources/014f2f0ea87ccddd.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 19,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 19 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-132420da2383",
+      "year": 2023,
+      "title": "2023年6月22日宁波市高新区事业单位笔试",
+      "date": "2023-06-22",
+      "region": "高新区",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年6月22日宁波市高新区事业单位笔试试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年6月22日宁波市高新区事业单位笔试试卷及答案.pdf",
+          "url": "sources/132420da2383339d.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 44,
+      "objectiveCount": 44,
+      "subjectiveCount": 0,
+      "unverifiedCount": 11,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 11 道客观题待核验，不计入自动评分。 原文题号未完整提取（23），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2023-paper-6ac38b7c8967",
+      "year": 2023,
+      "title": "2023年7月22日海曙区应届生高层次事业单位",
+      "date": "2023-07-22",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年7月22日海曙区应届生高层次事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年7月22日海曙区应届生高层次事业单位试卷及答案.pdf",
+          "url": "sources/6ac38b7c8967fabf.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 20,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 20 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-034e516c708f",
+      "year": 2023,
+      "title": "2023年8月26日上午前湾新区、北仑区事业单位",
+      "date": "2023-08-26",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年8月26日上午前湾新区、北仑区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年8月26日上午前湾新区、北仑区事业单位试卷及答案.pdf",
+          "url": "sources/034e516c708f38f6.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 48,
+      "objectiveCount": 45,
+      "subjectiveCount": 3,
+      "unverifiedCount": 4,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 4 道客观题待核验，不计入自动评分。 原文题号未完整提取（23），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2023-paper-b0a90ae55276",
+      "year": 2023,
+      "title": "2023年8月26日下午北仑区事业单位笔试",
+      "date": "2023-08-26",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年8月26日下午北仑区事业单位笔试试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年8月26日下午北仑区事业单位笔试试卷及答案.pdf",
+          "url": "sources/b0a90ae55276b973.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 45,
+      "objectiveCount": 45,
+      "subjectiveCount": 0,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-liankao-1014-am",
+      "year": 2023,
+      "title": "10月14日 宁波联考事业单位（上午场）（资料版本 1）",
+      "date": "2023-10-14",
+      "region": "宁波联考",
+      "questionCount": 48,
+      "objectiveCount": 45,
+      "subjectiveCount": 3,
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年10月14日上午宁波事业单位联考试卷及答案（2）.docx"
+      ],
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。",
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年10月14日上午宁波事业单位联考试卷及答案（2）.docx",
+          "url": "sources/29f03ea42b34d36d.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "unverifiedCount": 0
+    },
+    {
+      "id": "2023-paper-0abc42747cd2",
+      "year": 2023,
+      "title": "2023年10月14日上午宁波事业单位联考（资料版本 2）",
+      "date": "2023-10-14",
+      "region": "宁波联考",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年10月14日上午宁波事业单位联考试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年10月14日上午宁波事业单位联考试卷及答案.pdf",
+          "url": "sources/0abc42747cd2b4cd.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 45,
+      "objectiveCount": 45,
+      "subjectiveCount": 0,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2023-paper-f7e242983daf",
+      "year": 2023,
+      "title": "2023年10月14日下午宁波事业单位联考",
+      "date": "2023-10-14",
+      "region": "宁波联考",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年10月14日下午宁波事业单位联考试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年10月14日下午宁波事业单位联考试卷及答案.pdf",
+          "url": "sources/f7e242983dafbec1.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2023-paper-90341aaffe4d",
+      "year": 2023,
+      "title": "2023年11月25日市直属、海曙区事业单位",
+      "date": "2023-11-25",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2023/2023年11月25日市直属、海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2023/2023年11月25日市直属、海曙区事业单位试卷及答案.pdf",
+          "url": "sources/90341aaffe4d178e.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 47,
+      "objectiveCount": 45,
+      "subjectiveCount": 2,
+      "unverifiedCount": 11,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 11 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2022-paper-5d76bace1e92",
+      "year": 2022,
+      "title": "2022年上午余姚区事业单位",
+      "date": "2022",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年上午余姚区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年上午余姚区事业单位试卷及答案.pdf",
+          "url": "sources/5d76bace1e927329.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2022-paper-a2f566f13e7e",
+      "year": 2022,
+      "title": "2022年下午余姚区事业单位",
+      "date": "2022",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年下午余姚区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年下午余姚区事业单位试卷及答案.pdf",
+          "url": "sources/a2f566f13e7e48bc.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2022-paper-14011cbd445c",
+      "year": 2022,
+      "title": "2022年6月25日江北区事业单位",
+      "date": "2022-06-25",
+      "region": "江北",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年6月25日江北区事业单位试卷及答案.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年6月25日江北区事业单位试卷及答案.docx",
+          "url": "sources/14011cbd445cfad9.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 57,
+      "subjectiveCount": 0,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2022-paper-06eba00cc770",
+      "year": 2022,
+      "title": "2022年7月16日下午余姚慈溪宁海象山事业单位（资料版本 1）",
+      "date": "2022-07-16",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年7月16日下午余姚慈溪宁海象山事业单位试卷及答案（2）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年7月16日下午余姚慈溪宁海象山事业单位试卷及答案（2）.docx",
+          "url": "sources/06eba00cc770b8da.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2022-paper-67567988bcb3",
+      "year": 2022,
+      "title": "2022年7月16日上午余姚慈溪宁海象山事业单位（资料版本 2）",
+      "date": "2022-07-16",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年7月16日上午余姚慈溪宁海象山事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年7月16日上午余姚慈溪宁海象山事业单位试卷及答案.pdf",
+          "url": "sources/67567988bcb361a1.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2022-paper-bf21130b94cc",
+      "year": 2022,
+      "title": "2022年7月16日上午余姚慈溪宁海象山事业单位（资料版本 1）",
+      "date": "2022-07-16",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年7月16日上午余姚慈溪宁海象山事业单位试卷及答案（3）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年7月16日上午余姚慈溪宁海象山事业单位试卷及答案（3）.docx",
+          "url": "sources/bf21130b94ccd5c0.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2022-paper-d546b8aac675",
+      "year": 2022,
+      "title": "2022年7月16日上午余姚慈溪宁海象山事业单位（资料版本 3）",
+      "date": "2022-07-16",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年7月16日上午余姚慈溪宁海象山事业单位试卷及答案（2）.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年7月16日上午余姚慈溪宁海象山事业单位试卷及答案（2）.pdf",
+          "url": "sources/d546b8aac675c417.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 8,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 8 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2022-paper-eb04d2573d13",
+      "year": 2022,
+      "title": "2022年7月16日下午余姚慈溪宁海象山事业单位（资料版本 2）",
+      "date": "2022-07-16",
+      "region": "余姚",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年7月16日下午余姚慈溪宁海象山事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年7月16日下午余姚慈溪宁海象山事业单位试卷及答案.pdf",
+          "url": "sources/eb04d2573d136eee.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2022-paper-0e1a716a8f70",
+      "year": 2022,
+      "title": "2022年8月13日鄞州区事业单位",
+      "date": "2022-08-13",
+      "region": "鄞州",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年8月13日鄞州区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年8月13日鄞州区事业单位试卷及答案.pdf",
+          "url": "sources/0e1a716a8f709532.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 36,
+      "objectiveCount": 35,
+      "subjectiveCount": 1,
+      "unverifiedCount": 33,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 33 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2022-paper-1dc1a22bbfdd",
+      "year": 2022,
+      "title": "2022年8月14日海曙区事业单位招应届毕业生",
+      "date": "2022-08-14",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年8月14日海曙区事业单位招应届毕业生试卷及答案 .pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年8月14日海曙区事业单位招应届毕业生试卷及答案 .pdf",
+          "url": "sources/1dc1a22bbfdd1bab.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 30,
+      "objectiveCount": 29,
+      "subjectiveCount": 1,
+      "unverifiedCount": 29,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 29 道客观题待核验，不计入自动评分。 原文题号未完整提取（22），请对照原卷；含原卷缺题或图形/扫描待复核部分。"
+    },
+    {
+      "id": "2022-paper-cae676823264",
+      "year": 2022,
+      "title": "2022年9月17日宁波市直属事业单位",
+      "date": "2022-09-17",
+      "region": "市直属",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年9月17日宁波市直属事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年9月17日宁波市直属事业单位试卷及答案.pdf",
+          "url": "sources/cae676823264f11e.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2022-paper-664f351903eb",
+      "year": 2022,
+      "title": "2022年11月5日下午镇海区事业单位",
+      "date": "2022-11-05",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年11月5日下午镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年11月5日下午镇海区事业单位试卷及答案.pdf",
+          "url": "sources/664f351903eb0fe0.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 9,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 9 道客观题待核验，不计入自动评分。"
+    },
+    {
+      "id": "2022-shizhi-1127",
+      "year": 2022,
+      "title": "11月27日 市直属事业单位",
+      "date": "2022-11-27",
+      "region": "市直属",
+      "questionCount": 58,
+      "objectiveCount": 55,
+      "subjectiveCount": 3,
+      "status": "ready",
+      "sourceFiles": [
+        "2022/2022年11月27日宁波市部分直属事业单位试卷及答案.docx"
+      ],
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。",
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2022/2022年11月27日宁波市部分直属事业单位试卷及答案.docx",
+          "url": "sources/339754b0c66dcb21.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "unverifiedCount": 0
+    },
+    {
+      "id": "2021-paper-20d5bd895e7d",
+      "year": 2021,
+      "title": "2021年5月9日上午奉化区事业单位（资料版本 2）",
+      "date": "2021-05-09",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年5月9日上午奉化区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年5月9日上午奉化区事业单位试卷及答案.pdf",
+          "url": "sources/20d5bd895e7ddedd.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-paper-31e60c312110",
+      "year": 2021,
+      "title": "2021年5月9日上午奉化区事业单位（资料版本 1）",
+      "date": "2021-05-09",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年5月9日上午奉化区事业单位试卷及答案（2）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年5月9日上午奉化区事业单位试卷及答案（2）.docx",
+          "url": "sources/31e60c312110691d.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 54,
+      "objectiveCount": 54,
+      "subjectiveCount": 0,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-paper-6f1f0483ae6c",
+      "year": 2021,
+      "title": "2021年5月9日下午奉化区事业单位（资料版本 2）",
+      "date": "2021-05-09",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年5月9日下午奉化区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年5月9日下午奉化区事业单位试卷及答案.pdf",
+          "url": "sources/6f1f0483ae6c34ca.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-paper-fe57ab343506",
+      "year": 2021,
+      "title": "2021年5月9日下午奉化区事业单位（资料版本 1）",
+      "date": "2021-05-09",
+      "region": "奉化",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年5月9日下午奉化区事业单位试卷及答案（2）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年5月9日下午奉化区事业单位试卷及答案（2）.docx",
+          "url": "sources/fe57ab343506bd90.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-haishu-0522",
+      "year": 2021,
+      "title": "05月22日 海曙区事业单位（资料版本 1）",
+      "date": "2021-05-22",
+      "region": "海曙区",
+      "questionCount": 45,
+      "objectiveCount": 45,
+      "subjectiveCount": 0,
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年5月22日海曙区事业单位试卷及答案（2）.docx"
+      ],
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。",
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年5月22日海曙区事业单位试卷及答案（2）.docx",
+          "url": "sources/5f108dac6dac3677.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "unverifiedCount": 0
+    },
+    {
+      "id": "2021-paper-cfcd45b06b35",
+      "year": 2021,
+      "title": "2021年5月22日海曙区事业单位（资料版本 2）",
+      "date": "2021-05-22",
+      "region": "海曙",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年5月22日海曙区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年5月22日海曙区事业单位试卷及答案.pdf",
+          "url": "sources/cfcd45b06b35c183.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 2,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 2 道客观题待核验，不计入自动评分。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-paper-3ae119974882",
+      "year": 2021,
+      "title": "2021年6月5日北仑区事业单位（资料版本 2）",
+      "date": "2021-06-05",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年6月5日北仑区事业单位试卷及答案（2）.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年6月5日北仑区事业单位试卷及答案（2）.docx",
+          "url": "sources/3ae1199748828f7c.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-paper-71094b7c1579",
+      "year": 2021,
+      "title": "2021年6月5日北仑区事业单位（资料版本 1）",
+      "date": "2021-06-05",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年6月5日北仑区事业单位试卷及答案.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年6月5日北仑区事业单位试卷及答案.docx",
+          "url": "sources/71094b7c157991dc.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 54,
+      "objectiveCount": 54,
+      "subjectiveCount": 0,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 同名资料存在题目差异，本版单独保留。"
+    },
+    {
+      "id": "2021-paper-76e643c4d737",
+      "year": 2021,
+      "title": "2021年6月19日市直属（高校）事业单位",
+      "date": "2021-06-19",
+      "region": "市直属",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年6月19日市直属（高校）事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年6月19日市直属（高校）事业单位试卷及答案.pdf",
+          "url": "sources/76e643c4d7379b0f.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2021-paper-418fa75c24b2",
+      "year": 2021,
+      "title": "2021年7月10日市直属城管局事业单位",
+      "date": "2021-07-10",
+      "region": "市直属",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年7月10日市直属城管局事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年7月10日市直属城管局事业单位试卷及答案.pdf",
+          "url": "sources/418fa75c24b279c8.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 55,
+      "objectiveCount": 55,
+      "subjectiveCount": 0,
+      "unverifiedCount": 0,
+      "note": "已补充全卷55题的解题思路与学习解析；提示不提供选项结论。原7道待核验题已按独立推理或原卷预期口径给出学习判定答案，并纳入自动评分；其中第24、25、54题的歧义及适用条件已注明。原资料答案与解析保留，学习判定不等同于命题方官方勘误。"
+    },
+    {
+      "id": "2021-paper-da893108c817",
+      "year": 2021,
+      "title": "2021年9月25日宁波市部分市直事业单位",
+      "date": "2021-09-25",
+      "region": "宁波联考",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年9月25日宁波市部分市直事业单位试卷及答案.docx"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年9月25日宁波市部分市直事业单位试卷及答案.docx",
+          "url": "sources/da893108c8179b8e.docx",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2021-paper-910805f25158",
+      "year": 2021,
+      "title": "2021年10月31日镇海区事业单位",
+      "date": "2021-10-31",
+      "region": "镇海",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年10月31日镇海区事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年10月31日镇海区事业单位试卷及答案.pdf",
+          "url": "sources/910805f251586098.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 0,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。"
+    },
+    {
+      "id": "2021-paper-9868a37a8121",
+      "year": 2021,
+      "title": "2021年11月20日北仑区、部分市直属事业单位",
+      "date": "2021-11-20",
+      "region": "北仑",
+      "status": "ready",
+      "sourceFiles": [
+        "2021/2021年11月20日北仑区、部分市直属事业单位试卷及答案.pdf"
+      ],
+      "durationMinutes": null,
+      "sourceDocuments": [
+        {
+          "name": "2021/2021年11月20日北仑区、部分市直属事业单位试卷及答案.pdf",
+          "url": "sources/9868a37a81217ac0.pdf",
+          "role": "paper-and-answer"
+        }
+      ],
+      "questionCount": 57,
+      "objectiveCount": 55,
+      "subjectiveCount": 2,
+      "unverifiedCount": 1,
+      "note": "按原文整理，答案保留考试当年口径，尚未逐题完成人工复核。主观题按材料组作答，含多个小问。 1 道客观题待核验，不计入自动评分。"
+    }
+  ]
+}
